@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587659860 source:c:\users\adi\desktop\lfa\minimizare_dfa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
